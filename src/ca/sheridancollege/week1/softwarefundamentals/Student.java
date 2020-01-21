@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author sidhu376  --  21-01-2020  --  commit cahnges
+ * @author sidhu376  --  21-01-2020  --  commit 1a2w3rd4ecf
  */
 public class Student {
     
